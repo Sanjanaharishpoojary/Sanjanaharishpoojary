@@ -8,6 +8,17 @@ I am Sanjana Harish
 - 💬 Ask me about anything.I will to work on it 
 - 📫 How to reach me: https://www.linkedin.com/in/sanjana-h-b73645234
 
+- <details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 
 
 
