@@ -13,7 +13,7 @@ I am Sanjana Harish
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Java|
+|     1| Java      |
 |     2| Python    |
 |     3| SQL       |
 |     4| C         |
